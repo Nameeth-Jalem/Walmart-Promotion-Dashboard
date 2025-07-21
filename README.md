@@ -58,7 +58,8 @@ Promotions are generating more revenue, but margin is tight ,optimization is nee
 This line chart compares monthly promotional revenue across different locations.
 
 **Screenshot:**  
-![Time Series Analysis](./Images/Time Series Analysis.png)
+![Time Series Analysis](./Images/Time%20Series%20Analysis.png)
+
 
 **Insights:**  
 - **Miami and Chicago** are consistently top performers.  
