@@ -41,7 +41,8 @@ The project focuses on analyzing Walmart's promotional campaign performance usin
 This section highlights high-level performance of Walmart promotions.
 
 **Screenshot:**  
-![KPI Cards](./Images/KPI CARDS.png)
+![KPI Cards](./Images/KPI%20CARDS.png)
+
 
 **Highlights:**  
 - **Revenue with Promotion:** ₹8.06M  
