@@ -48,7 +48,7 @@ This section highlights high-level performance of Walmart promotions.
 - **Revenue without Promotion:** ₹7.20M  
 - **Promotion Usage Rate:** 52.14%
 
-Promotions are generating more revenue, but margin is tight — optimization is needed.
+Promotions are generating more revenue, but margin is tight ,optimization is needed.
 
 ---
 
@@ -76,7 +76,7 @@ This stacked bar chart shows how each promotion type contributes to total revenu
 **Insights:**  
 - **Percentage Discount** is the most used and effective type.  
 - **BOGO** has moderate adoption.  
-- **No promotion** still drives nearly half the revenue — indicating strong baseline demand.
+- **No promotion** still drives nearly half the revenue , indicating strong baseline demand.
 
 ---
 
@@ -98,7 +98,7 @@ This stacked bar chart shows how each promotion type contributes to total revenu
 | Category         | Insight                              | Reasoning                                  |
 |------------------|------------------------------------|--------------------------------------------|
 | Promotion Impact | Revenue with promotions is ₹8.06M vs ₹7.20M without | Indicates effectiveness, but room for margin growth |
-| Usage Rate       | 52.14% of sales use promotions     | May suggest overuse — consider controlled discounting |
+| Usage Rate       | 52.14% of sales use promotions     | May suggest overuse, consider controlled discounting |
 | Store Trends     | Miami & Chicago lead in promo revenue | Possible better in-store campaigns or local buying behavior |
 | Promotion Type   | Percentage Discount > BOGO          | Simpler, more attractive for higher-value products |
 | Time Patterns    | Spikes in Feb, Jul, Aug             | Aligned with sales seasons or regional holidays |
